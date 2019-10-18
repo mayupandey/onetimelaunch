@@ -2,6 +2,11 @@
 
 Show your activity or Intro page only one time at install
 
+## Packages used
+shared_preferences: ^0.5.3+5
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

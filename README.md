@@ -1,9 +1,15 @@
 # onetimelaunch
 
-Show your activity or Intro page only one time at install
+Show your activity or Intro page only one time at install.
 
+## Features
+Payment modes: Google pay,BHIM,Paytm
+Payment confirmation 
 ## Packages used
 shared_preferences: ^0.5.3+5
+flutter_svg: 0.14.2
+flutter_upi: 0.0.2
+flutter_ticket_widget: 0.0.1
 
 ## Demo
 ![ONETIMELAUCHSCREEN,INTRO SCREEN](https://github.com/mayupandey/onetimelaunch/blob/master/untitled.gif)

@@ -1,6 +1,7 @@
 # onetimelaunch
 
 Show your activity or Intro page only one time at install.
+Payment modes integrated(BHIM,GOOGLE PAY,PAYTM)
 
 ## Features
 Payment modes: Google pay,BHIM,Paytm
